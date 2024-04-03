@@ -1,0 +1,13 @@
+[STORAGE]
+SQLITE_DB = "db/devika.db"
+SCREENSHOTS_DIR = "screenshots"
+PROJECTS_DIR = "projects"
+LOGS_DIR = "logs"
+REPOS_DIR = "repos"
+
+[API_KEYS]
+BING = "<YOUR_BING_API_KEY>"
+OPENAI = ""
+
+[API_ENDPOINTS]
+BING = "https://api.bing.microsoft.com/v7.0/search"
